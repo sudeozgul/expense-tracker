@@ -1,3 +1,4 @@
+```markdown
 # Expense Tracker
 
 A simple console-based expense tracking application developed using Python.
@@ -17,15 +18,3 @@ Make sure Python is installed on your system.
 
 ```bash
 python main.py
-
-# Project Purpose
-
-- This project was created to practice basic Python programming concepts such as:
-
-- Functions
-
-- Lists
-
-- File operations
-
-- Error handling
