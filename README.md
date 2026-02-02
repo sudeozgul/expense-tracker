@@ -24,3 +24,8 @@ This project was created to practice basic Python programming concepts such as:
 - Lists
 - File operations
 - Error handling
+
+---
+
+## Author
+Sude Özgül
