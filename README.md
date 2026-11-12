@@ -1,31 +1,40 @@
-# Expense Tracker
+# Python Expense Tracker
 
-A simple console-based expense tracking application developed using Python.
+A console-based expense tracking application developed with Python.
+It helps users record, view, and manage their expenses.
 
 ## Features
-- Add a new expense
-- List all expenses
-- Delete an expense
-- Save expenses to a file
-- Load expenses from a file
 
-## Technologies Used
+- Add expenses with descriptions, categories, and amounts
+- View all recorded expenses
+- Calculate total expenses
+- Delete existing expenses
+- Save expense records to a text file
+- Load saved expenses when the application starts
+- Validate expense amounts
+
+## Technologies
+
 - Python
-
-## How to Run
-Make sure Python is installed on your system.
-```bash
-python main.py
-```
-
-## Project Purpose
-This project was created to practice basic Python programming concepts such as:
 - Functions
 - Lists
-- File operations
-- Error handling
+- File handling
+- Basic exception handling
 
----
+## How to Run
+
+1. Clone this repository.
+2. Open the project folder in a terminal.
+3. Run:
+
+   `python main.py`
+
+## Project Purpose
+
+This project was developed to practice Python programming,
+data management, and file operations through a simple
+expense tracking application.
 
 ## Author
+
 Sude Özgül
