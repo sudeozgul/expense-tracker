@@ -1,7 +1,7 @@
 # Python Expense Tracker
 
 A console-based expense tracking application developed with Python.
-It helps users record, view, and manage their expenses.
+It helps users record, view, calculate, and manage their expenses.
 
 ## Features
 
@@ -11,7 +11,8 @@ It helps users record, view, and manage their expenses.
 - Delete existing expenses
 - Save expense records to a text file
 - Load saved expenses when the application starts
-- Validate expense amounts
+- Validate expense amounts and reject invalid or non-positive values
+- Accept decimal amounts entered with either a comma or a period
 
 ## Technologies
 
@@ -19,7 +20,8 @@ It helps users record, view, and manage their expenses.
 - Functions
 - Lists
 - File handling
-- Basic exception handling
+- Input validation
+- Exception handling
 
 ## How to Run
 
@@ -29,11 +31,13 @@ It helps users record, view, and manage their expenses.
 
    `python main.py`
 
+On Windows, if the `python` command is not recognized, use:
+
+   `py main.py`
+
 ## Project Purpose
 
-This project was developed to practice Python programming,
-data management, and file operations through a simple
-expense tracking application.
+This project was developed to practice Python programming, data management, input validation, and file operations through a simple expense tracking application.
 
 ## Author
 
